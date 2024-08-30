@@ -6,4 +6,5 @@ jenkins running on  http://13.201.100.39:8080/
 
 installed docker plugin in jenkins 
 Jenkins -> Manage Plugins -> Available Plugins -> search docker plugin and install
-![image](https://github.com/user-attachments/assets/1ba27495-7b6b-404a-8535-d3b514d332e2)
+![image](https://github.com/user-attachments/assets/d3eaf9be-c8f2-4626-8109-5a79211cc35e)
+
