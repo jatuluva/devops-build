@@ -1,5 +1,5 @@
 #!/bin/bash
-if [[ $GIT_BRANCH == "origin/dev" ]]; then
+if [[ $GIT_BRANCH == "dev" ]]; then
     # Build your project
     sh 'chmod +x build.sh'
     sh './build.sh'
@@ -7,7 +7,7 @@ if [[ $GIT_BRANCH == "origin/dev" ]]; then
     docker tag test jatuluva/dev
     docker push jatuluva/dev
 
-elif [[ $GIT_BRANCH == "origin/main" ]]; then
+elif [[ $GIT_BRANCH == "main" ]]; then
     sh 'chmod +x build.sh'
     sh './build.sh'
     docker login -u jatuluva -p $DOCKER_PASSWORD
