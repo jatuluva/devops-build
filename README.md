@@ -17,8 +17,13 @@ I have changed the image name capstonenginx
 ![image](https://github.com/user-attachments/assets/6e39437c-89f5-4bb8-a763-bb12a5c89597)
 ![image](https://github.com/user-attachments/assets/8eecea43-c1fd-4683-b077-07a4277c32e8)
 ![image](https://github.com/user-attachments/assets/32aa5af8-e1e6-4c53-b071-430a0cc907bf)
-![image](https://github.com/user-attachments/assets/55c9c696-40a8-43bb-b79b-18bc7a3529bc)
+![image](https://github.com/user-attachments/assets/fba30edb-a1a6-4ac6-a56d-a4be7998ec97)
 
+![image](https://github.com/user-attachments/assets/b15e9349-5763-45b9-816f-851610f67f17)
+
+![image](https://github.com/user-attachments/assets/2a087608-80b3-4b0a-8caa-250ac704518b)
+![image](https://github.com/user-attachments/assets/55c9c696-40a8-43bb-b79b-18bc7a3529bc)
+![image](https://github.com/user-attachments/assets/aed47936-58fb-4142-be15-02abd9cb12cb)
 ![image](https://github.com/user-attachments/assets/e1dc6e0a-cbcf-4b8b-9c88-d732e3023017)
 
 
