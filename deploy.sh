@@ -1,6 +1,6 @@
 #!/bin/bash
 if [[ $GIT_BRANCH == "origin/dev" ]]; then
-    # Build your project
+    # Build your guviproject
     sh 'chmod +x build.sh'
     sh './build.sh'
     docker login -u jatuluva -p $DOCKER_PASSWORD
