@@ -1,4 +1,6 @@
 launched ec2 machine (ubuntu).
+![image](https://github.com/user-attachments/assets/d200a1cb-78b8-40f0-8491-eb12be676291)
+
 installed git on it.
 installed jenkins on ec2 machine.
 jenkins running on  http://13.201.100.39:8080/
