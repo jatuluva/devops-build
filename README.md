@@ -11,5 +11,6 @@ Jenkins -> Manage Plugins -> Available Plugins -> search docker plugin and insta
 ![image](https://github.com/user-attachments/assets/d3eaf9be-c8f2-4626-8109-5a79211cc35e)
 ![image](https://github.com/user-attachments/assets/a47ab21b-272b-4db7-9fcd-bdef2055687b)
 I have changed the image name capstonenginx
-![image](https://github.com/user-attachments/assets/85fb04bd-631c-4bf7-b0b5-f9e6c6f3a29e)
+![image](https://github.com/user-attachments/assets/465b1d1f-7a2b-4401-96ba-004ea88f47dc)
+
 
