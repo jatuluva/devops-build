@@ -3,7 +3,7 @@ launched ec2 machine (ubuntu).
 
 installed git on it.
 installed jenkins on ec2 machine.
-jenkins running on  http://13.201.100.39:8080/
+jenkins running on  http://65.2.75.89:8080/
 ![image](https://github.com/user-attachments/assets/a082adbb-1974-4cae-b229-7d3ffb67acb6)
 
 installed docker plugin in jenkins 
@@ -12,5 +12,7 @@ Jenkins -> Manage Plugins -> Available Plugins -> search docker plugin and insta
 ![image](https://github.com/user-attachments/assets/a47ab21b-272b-4db7-9fcd-bdef2055687b)
 I have changed the image name capstonenginx
 ![image](https://github.com/user-attachments/assets/465b1d1f-7a2b-4401-96ba-004ea88f47dc)
+![image](https://github.com/user-attachments/assets/c179bdbd-1fab-4d4c-b64f-739e23ba9c20)
+![image](https://github.com/user-attachments/assets/358ee100-168a-4659-b88d-7c65e922fa80)
 
 
