@@ -26,5 +26,7 @@ I have changed the image name capstonenginx
 ![image](https://github.com/user-attachments/assets/55c9c696-40a8-43bb-b79b-18bc7a3529bc)
 ![image](https://github.com/user-attachments/assets/aed47936-58fb-4142-be15-02abd9cb12cb)
 ![image](https://github.com/user-attachments/assets/e1dc6e0a-cbcf-4b8b-9c88-d732e3023017)
+new instance created and pulled the images from docker hub
+![image](https://github.com/user-attachments/assets/8bcc97d4-7f7d-420d-b817-9ffb8ada4488)
 
 
