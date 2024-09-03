@@ -35,5 +35,7 @@ after pulling the docker hub image from dev, any one can see the application
 ![image](https://github.com/user-attachments/assets/7d86dc38-15ba-47f0-88c8-f8185c62b456)
 application access through my ip adress
 ![image](https://github.com/user-attachments/assets/4ff6273e-17a4-4e3a-83a4-3f1474c683ac)
+![image](https://github.com/user-attachments/assets/c77ef5dd-dcc2-42b8-aaca-c2fb951975bf)
+![image](https://github.com/user-attachments/assets/99a8aa7a-47ce-4932-bc38-5a68cdd30418)
 
 
