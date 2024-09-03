@@ -29,7 +29,11 @@ I have changed the image name capstonenginx
 new instance created and pulled the images from docker hub
 ![image](https://github.com/user-attachments/assets/8bcc97d4-7f7d-420d-b817-9ffb8ada4488)
 ![image](https://github.com/user-attachments/assets/3e2188fe-b006-497d-aa4d-0012189cb765)
+after pulling the docker hub image from dev, any one can see the application
+![image](https://github.com/user-attachments/assets/6e92e043-48c0-4795-8f46-03f3719f9f60)
 
 ![image](https://github.com/user-attachments/assets/7d86dc38-15ba-47f0-88c8-f8185c62b456)
+application access through my ip adress
+![image](https://github.com/user-attachments/assets/4ff6273e-17a4-4e3a-83a4-3f1474c683ac)
 
 
